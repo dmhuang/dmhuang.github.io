@@ -15,7 +15,7 @@ I am an Assistant Professor in the Department of Statistics and Applied Probabil
 
 I am especially interested in developing new methods for efficient and stable statistical analyses of the dependence structures in high-dimensional data, and establishing their theoretical guarantees. Specifically, I have been worked on dimension reduction using inverse regression, variable selection using Model-X knockoffs, and Bayesian prior specification.
 
-![](pic/portrait.jpg){:height="25%" width="25%"}
+![](pic/portrait.jpg){:height="45%" width="45%"}
 
 **Contact**
 
